@@ -3,7 +3,12 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kristina Nelson is a Research Assistant at Oregon Health & Science University where she is on the Oregon Clinical & Translation Research Institute Evaluation Core. Her evaluation focus is on BUILD-EXITO, an NIH-funded equity STEM initiative based at Portland State University. 
+
+She received her B.A. from Lewis & Clark College, where she double majored in Psychology and Studio Art. As an undergraduate student, she conducted research in the Early Childhood Development Lab.
+
+Her primary research interests lie in the intersection of human development and education. In her spare time, she enjoys sewing, weaving, and playing with dogs.
+
 
 ## Current Interests and Projects:
 
