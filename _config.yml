@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Kristina Nelson
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Kristina Nelson
   avatar: Kristina_Nelson_Headshot_v1.jpg
-  bio: "Kristina Nelson is a Portland-based researcher interested in human development and education."
+  bio: "Kristina Nelson is a Portland-based researcher interested in the intersection of human development and education."
   email: #kristinanancynelson@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
