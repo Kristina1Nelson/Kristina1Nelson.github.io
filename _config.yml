@@ -7,7 +7,7 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Kristina Nelson
-  avatar: images/Kristina_Nelson_Headshot_v1.jpg
+  avatar: Kristina_Nelson_Headshot_v1.jpg
   bio: "Kristina Nelson is a Portland-based researcher interested in the intersection of human development and education."
   email: #kristinanancynelson@gmail.com
   # Do not include the @ symbol in your Twitter username
