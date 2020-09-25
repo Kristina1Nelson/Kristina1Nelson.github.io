@@ -10,10 +10,6 @@ She received her B.A. from Lewis & Clark College, where she double majored in Ps
 Her primary research interests lie in the intersection of human development and education. In her spare time, she enjoys sewing, weaving, and playing with dogs.
 
 
-## Current Interests and Projects:
+## Publications and Presentations:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- 
